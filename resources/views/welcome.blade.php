@@ -78,7 +78,7 @@
             @endif -->
 
             <div class="content">
-                <div class="title">你好，王牌！</div>
+                <div class="title">你好，恩佐！</div>
                 <!-- <div class="title m-b-md">
                     Laravel
                 </div>
